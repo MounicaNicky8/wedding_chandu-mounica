@@ -1855,8 +1855,8 @@ form label {
 @media screen and (max-width: 768px) and (orientation : portrait) {
   #fh5co-header {
    max-width:100%;
-object-fit: cover;
-/*height:655px;*/
+/*object-fit: cover;*/
+height:655px;
 
  background-position:center center ! important;
 background-image: url(../images/img_mob.JPG) ! important;
