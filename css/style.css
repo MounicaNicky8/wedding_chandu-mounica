@@ -18,6 +18,8 @@ body {
   color: #828282;
   background: #fff;
 }
+html, body { background: #ffffff; height: 100%; //overflow-x: hidden; position: relative; }
+
 
 #page {
   position: relative;
